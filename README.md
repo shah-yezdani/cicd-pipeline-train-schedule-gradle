@@ -8,7 +8,7 @@ It is not necessary to run this app locally in order to complete the learning ac
 
     npm install
 
-Then, you can run the app with: trigger
+Then, you can run the app with: trigger again
 
     npm start
 
